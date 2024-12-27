@@ -1,0 +1,1 @@
+export const textoMotivacional = "Desde la Vicepresidencia Corporativa, te hacemos entrega de tus prendas institucionales como parte de nuestro compromiso por fortalecer tu motivación y fomentar el sentido de pertenencia con la Entidad. ¡Gracias por ser parte de este gran equipo!"
